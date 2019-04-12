@@ -1,0 +1,873 @@
+<?xml version="1.0"?><rss version="2.0" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Recent UK earthquakes</title>
+        <link>http://earthquakes.bgs.ac.uk/</link>
+        <description>
+            Recent UK seismic events recorded by the BGS Seismology team
+        </description>
+        <language>en-gb</language>
+        <lastBuildDate>Sat, 06 Apr 2019 00:40:00</lastBuildDate>
+        <image>
+            <title>BGS Logo</title>
+            <url>
+                http://www.bgs.ac.uk/images/logos/bgs_c_w_227x50.gif
+            </url>
+            <link>http://earthquakes.bgs.ac.uk/</link>
+        </image>
+        <item>
+            <title>
+                UK Earthquake alert : M 2.4 :SOUTHERN NORTH SEA, Sat, 30 Mar 2019 05:03:46
+            </title>
+            <description>
+                Origin date/time: Sat, 30 Mar 2019 05:03:46 ; Location: SOUTHERN NORTH SEA ; Lat/long: 53.684,1.139 ; Depth: 9 km ; Magnitude: 2.4
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190330050239.html
+            </link>
+            <pubDate>Sat, 30 Mar 2019 05:03:46</pubDate>
+            <category>EQUK</category>
+            <geo:lat>53.684</geo:lat>
+            <geo:long>1.139</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.7 :FILEY,NORTH YORKSHIRE, Thu, 28 Mar 2019 22:31:58
+            </title>
+            <description>
+                Origin date/time: Thu, 28 Mar 2019 22:31:58 ; Location: FILEY,NORTH YORKSHIRE ; Lat/long: 54.247,-0.246 ; Depth: 1 km ; Magnitude: 1.7
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190328223034.html
+            </link>
+            <pubDate>Thu, 28 Mar 2019 22:31:58</pubDate>
+            <category>EQUK</category>
+            <geo:lat>54.247</geo:lat>
+            <geo:long>-0.246</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.9 :EBBW VALE,BLAENAU GWENT, Wed, 27 Mar 2019 10:05:13
+            </title>
+            <description>
+                Origin date/time: Wed, 27 Mar 2019 10:05:13 ; Location: EBBW VALE,BLAENAU GWENT ; Lat/long: 51.782,-3.227 ; Depth: 7 km ; Magnitude: 0.9
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190327100359.html
+            </link>
+            <pubDate>Wed, 27 Mar 2019 10:05:13</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.782</geo:lat>
+            <geo:long>-3.227</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.7 :FIRTH OF CLYDE, Tue, 26 Mar 2019 05:52:57
+            </title>
+            <description>
+                Origin date/time: Tue, 26 Mar 2019 05:52:57 ; Location: FIRTH OF CLYDE ; Lat/long: 55.330,-5.290 ; Depth: 7 km ; Magnitude: 1.7
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190326055257.html
+            </link>
+            <pubDate>Tue, 26 Mar 2019 05:52:57</pubDate>
+            <category>EQUK</category>
+            <geo:lat>55.330</geo:lat>
+            <geo:long>-5.290</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.9 :SKYE,HIGHLAND, Mon, 25 Mar 2019 15:42:09
+            </title>
+            <description>
+                Origin date/time: Mon, 25 Mar 2019 15:42:09 ; Location: SKYE,HIGHLAND ; Lat/long: 57.547,-6.254 ; Depth: 6 km ; Magnitude: 0.9
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190325154100.html
+            </link>
+            <pubDate>Mon, 25 Mar 2019 15:42:09</pubDate>
+            <category>EQUK</category>
+            <geo:lat>57.547</geo:lat>
+            <geo:long>-6.254</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.8 :ISLAY,ARGYLL AND BUTE, Fri, 22 Mar 2019 12:51:25
+            </title>
+            <description>
+                Origin date/time: Fri, 22 Mar 2019 12:51:25 ; Location: ISLAY,ARGYLL AND BUTE ; Lat/long: 55.786,-6.368 ; Depth: 7 km ; Magnitude: 0.8
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190322125100.html
+            </link>
+            <pubDate>Fri, 22 Mar 2019 12:51:25</pubDate>
+            <category>EQUK</category>
+            <geo:lat>55.786</geo:lat>
+            <geo:long>-6.368</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.0 :ISLAY,ARGYLL AND BUTE, Sun, 17 Mar 2019 11:46:43
+            </title>
+            <description>
+                Origin date/time: Sun, 17 Mar 2019 11:46:43 ; Location: ISLAY,ARGYLL AND BUTE ; Lat/long: 55.788,-6.435 ; Depth: 7 km ; Magnitude: 1.0
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190317114630.html
+            </link>
+            <pubDate>Sun, 17 Mar 2019 11:46:43</pubDate>
+            <category>EQUK</category>
+            <geo:lat>55.788</geo:lat>
+            <geo:long>-6.435</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.1 :ISLAY,ARGYLL AND BUTE, Sat, 16 Mar 2019 10:47:23
+            </title>
+            <description>
+                Origin date/time: Sat, 16 Mar 2019 10:47:23 ; Location: ISLAY,ARGYLL AND BUTE ; Lat/long: 55.802,-6.390 ; Depth: 6 km ; Magnitude: 1.1
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190316104720.html
+            </link>
+            <pubDate>Sat, 16 Mar 2019 10:47:23</pubDate>
+            <category>EQUK</category>
+            <geo:lat>55.802</geo:lat>
+            <geo:long>-6.390</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.8 :ISLAY,ARGYLL AND BUTE, Sat, 16 Mar 2019 10:11:31
+            </title>
+            <description>
+                Origin date/time: Sat, 16 Mar 2019 10:11:31 ; Location: ISLAY,ARGYLL AND BUTE ; Lat/long: 55.794,-6.353 ; Depth: 7 km ; Magnitude: 1.8
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190316101132.html
+            </link>
+            <pubDate>Sat, 16 Mar 2019 10:11:31</pubDate>
+            <category>EQUK</category>
+            <geo:lat>55.794</geo:lat>
+            <geo:long>-6.353</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.0 :WHITWORTH,LANCASHIRE, Fri, 15 Mar 2019 05:39:47
+            </title>
+            <description>
+                Origin date/time: Fri, 15 Mar 2019 05:39:47 ; Location: WHITWORTH,LANCASHIRE ; Lat/long: 53.659,-2.206 ; Depth: 11 km ; Magnitude: 1.0
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190315053930.html
+            </link>
+            <pubDate>Fri, 15 Mar 2019 05:39:47</pubDate>
+            <category>EQUK</category>
+            <geo:lat>53.659</geo:lat>
+            <geo:long>-2.206</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 2.4 :BYFORD,HEREFORD, Thu, 14 Mar 2019 14:30:59
+            </title>
+            <description>
+                Origin date/time: Thu, 14 Mar 2019 14:30:59 ; Location: BYFORD,HEREFORD ; Lat/long: 52.085,-2.898 ; Depth: 23 km ; Magnitude: 2.4
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190314143059.html
+            </link>
+            <pubDate>Thu, 14 Mar 2019 14:30:59</pubDate>
+            <category>EQUK</category>
+            <geo:lat>52.085</geo:lat>
+            <geo:long>-2.898</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.0 :NEWDIGATE,SURREY, Thu, 14 Mar 2019 01:00:57
+            </title>
+            <description>
+                Origin date/time: Thu, 14 Mar 2019 01:00:57 ; Location: NEWDIGATE,SURREY ; Lat/long: 51.163,-0.250 ; Depth: 2 km ; Magnitude: 0.0
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190314005929.html
+            </link>
+            <pubDate>Thu, 14 Mar 2019 01:00:57</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.163</geo:lat>
+            <geo:long>-0.250</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.8 :LOSTWITHIEL,CORNWALL, Wed, 13 Mar 2019 18:59:44
+            </title>
+            <description>
+                Origin date/time: Wed, 13 Mar 2019 18:59:44 ; Location: LOSTWITHIEL,CORNWALL ; Lat/long: 50.407,-4.641 ; Depth: 6 km ; Magnitude: 0.8
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190313185930.html
+            </link>
+            <pubDate>Wed, 13 Mar 2019 18:59:44</pubDate>
+            <category>EQUK</category>
+            <geo:lat>50.407</geo:lat>
+            <geo:long>-4.641</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M -0.3 :NEWDIGATE,SURREY, Sun, 10 Mar 2019 06:51:21
+            </title>
+            <description>
+                Origin date/time: Sun, 10 Mar 2019 06:51:21 ; Location: NEWDIGATE,SURREY ; Lat/long: 51.163,-0.251 ; Depth: 1 km ; Magnitude: -0.3
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190310064952.html
+            </link>
+            <pubDate>Sun, 10 Mar 2019 06:51:21</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.163</geo:lat>
+            <geo:long>-0.251</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.3 :NEWDIGATE,SURREY, Fri, 08 Mar 2019 02:39:41
+            </title>
+            <description>
+                Origin date/time: Fri, 08 Mar 2019 02:39:41 ; Location: NEWDIGATE,SURREY ; Lat/long: 51.163,-0.241 ; Depth: 2 km ; Magnitude: 0.3
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190308023814.html
+            </link>
+            <pubDate>Fri, 08 Mar 2019 02:39:41</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.163</geo:lat>
+            <geo:long>-0.241</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M -0.1 :NEWDIGATE,SURREY, Fri, 08 Mar 2019 02:40:30
+            </title>
+            <description>
+                Origin date/time: Fri, 08 Mar 2019 02:40:30 ; Location: NEWDIGATE,SURREY ; Lat/long: 51.163,-0.239 ; Depth: 2 km ; Magnitude: -0.1
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190308023813.html
+            </link>
+            <pubDate>Fri, 08 Mar 2019 02:40:30</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.163</geo:lat>
+            <geo:long>-0.239</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M -0.5 :NEWDIGATE,SURREY, Sun, 03 Mar 2019 22:31:33
+            </title>
+            <description>
+                Origin date/time: Sun, 03 Mar 2019 22:31:33 ; Location: NEWDIGATE,SURREY ; Lat/long: 51.162,-0.249 ; Depth: 2 km ; Magnitude: -0.5
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190303223005.html
+            </link>
+            <pubDate>Sun, 03 Mar 2019 22:31:33</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.162</geo:lat>
+            <geo:long>-0.249</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.6 :NEWDIGATE,SURREY, Sun, 03 Mar 2019 02:33:18
+            </title>
+            <description>
+                Origin date/time: Sun, 03 Mar 2019 02:33:18 ; Location: NEWDIGATE,SURREY ; Lat/long: 51.164,-0.244 ; Depth: 2 km ; Magnitude: 0.6
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190303023150.html
+            </link>
+            <pubDate>Sun, 03 Mar 2019 02:33:18</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.164</geo:lat>
+            <geo:long>-0.244</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.3 :GRASMERE,CUMBRIA, Sat, 02 Mar 2019 18:48:17
+            </title>
+            <description>
+                Origin date/time: Sat, 02 Mar 2019 18:48:17 ; Location: GRASMERE,CUMBRIA ; Lat/long: 54.475,-3.020 ; Depth: 2 km ; Magnitude: 0.3
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190302184730.html
+            </link>
+            <pubDate>Sat, 02 Mar 2019 18:48:17</pubDate>
+            <category>EQUK</category>
+            <geo:lat>54.475</geo:lat>
+            <geo:long>-3.020</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M -0.1 :NEWDIGATE,SURREY, Thu, 28 Feb 2019 05:39:37
+            </title>
+            <description>
+                Origin date/time: Thu, 28 Feb 2019 05:39:37 ; Location: NEWDIGATE,SURREY ; Lat/long: 51.160,-0.243 ; Depth: 2 km ; Magnitude: -0.1
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190228053808.html
+            </link>
+            <pubDate>Thu, 28 Feb 2019 05:39:37</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.160</geo:lat>
+            <geo:long>-0.243</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M -0.3 :NEWDIGATE,SURREY, Thu, 28 Feb 2019 05:37:53
+            </title>
+            <description>
+                Origin date/time: Thu, 28 Feb 2019 05:37:53 ; Location: NEWDIGATE,SURREY ; Lat/long: 51.161,-0.242 ; Depth: 2 km ; Magnitude: -0.3
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190228053625.html
+            </link>
+            <pubDate>Thu, 28 Feb 2019 05:37:53</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.161</geo:lat>
+            <geo:long>-0.242</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M -0.5 :NEWDIGATE,SURREY, Wed, 27 Feb 2019 04:46:52
+            </title>
+            <description>
+                Origin date/time: Wed, 27 Feb 2019 04:46:52 ; Location: NEWDIGATE,SURREY ; Lat/long: 51.160,-0.242 ; Depth: 2 km ; Magnitude: -0.5
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190227044525.html
+            </link>
+            <pubDate>Wed, 27 Feb 2019 04:46:52</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.160</geo:lat>
+            <geo:long>-0.242</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M -0.6 :NEWDIGATE,SURREY, Wed, 27 Feb 2019 03:51:31
+            </title>
+            <description>
+                Origin date/time: Wed, 27 Feb 2019 03:51:31 ; Location: NEWDIGATE,SURREY ; Lat/long: 51.165,-0.244 ; Depth: 2 km ; Magnitude: -0.6
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190227035004.html
+            </link>
+            <pubDate>Wed, 27 Feb 2019 03:51:31</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.165</geo:lat>
+            <geo:long>-0.244</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 3.1 :NEWDIGATE,SURREY, Wed, 27 Feb 2019 03:42:21
+            </title>
+            <description>
+                Origin date/time: Wed, 27 Feb 2019 03:42:21 ; Location: NEWDIGATE,SURREY ; Lat/long: 51.164,-0.246 ; Depth: 2 km ; Magnitude: 3.1
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190227034223.html
+            </link>
+            <pubDate>Wed, 27 Feb 2019 03:42:21</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.164</geo:lat>
+            <geo:long>-0.246</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.7 :COWGILL,CUMBRIA, Mon, 25 Feb 2019 16:57:06
+            </title>
+            <description>
+                Origin date/time: Mon, 25 Feb 2019 16:57:06 ; Location: COWGILL,CUMBRIA ; Lat/long: 54.251,-2.334 ; Depth: 3 km ; Magnitude: 1.7
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190225165707.html
+            </link>
+            <pubDate>Mon, 25 Feb 2019 16:57:06</pubDate>
+            <category>EQUK</category>
+            <geo:lat>54.251</geo:lat>
+            <geo:long>-2.334</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.8 :CWMLLYNFELL,NPT, Mon, 25 Feb 2019 05:47:33
+            </title>
+            <description>
+                Origin date/time: Mon, 25 Feb 2019 05:47:33 ; Location: CWMLLYNFELL,NPT ; Lat/long: 51.765,-3.828 ; Depth: 7 km ; Magnitude: 0.8
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190225054648.html
+            </link>
+            <pubDate>Mon, 25 Feb 2019 05:47:33</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.765</geo:lat>
+            <geo:long>-3.828</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.2 :MORVERN,HIGHLAND, Fri, 22 Feb 2019 10:46:58
+            </title>
+            <description>
+                Origin date/time: Fri, 22 Feb 2019 10:46:58 ; Location: MORVERN,HIGHLAND ; Lat/long: 56.559,-5.790 ; Depth: 8 km ; Magnitude: 1.2
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190222104630.html
+            </link>
+            <pubDate>Fri, 22 Feb 2019 10:46:58</pubDate>
+            <category>EQUK</category>
+            <geo:lat>56.559</geo:lat>
+            <geo:long>-5.790</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 2.0 :NEWDIGATE,SURREY, Tue, 19 Feb 2019 17:03:57
+            </title>
+            <description>
+                Origin date/time: Tue, 19 Feb 2019 17:03:57 ; Location: NEWDIGATE,SURREY ; Lat/long: 51.163,-0.248 ; Depth: 2 km ; Magnitude: 2.0
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190219170228.html
+            </link>
+            <pubDate>Tue, 19 Feb 2019 17:03:57</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.163</geo:lat>
+            <geo:long>-0.248</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 2.4 :NORWEGIAN SEA, Mon, 18 Feb 2019 01:13:32
+            </title>
+            <description>
+                Origin date/time: Mon, 18 Feb 2019 01:13:32 ; Location: NORWEGIAN SEA ; Lat/long: 62.371,2.297 ; Depth: 10 km ; Magnitude: 2.4
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190218011330.html
+            </link>
+            <pubDate>Mon, 18 Feb 2019 01:13:32</pubDate>
+            <category>EQUK</category>
+            <geo:lat>62.371</geo:lat>
+            <geo:long>2.297</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.2 :NEWDIGATE,SURREY, Thu, 14 Feb 2019 08:02:53
+            </title>
+            <description>
+                Origin date/time: Thu, 14 Feb 2019 08:02:53 ; Location: NEWDIGATE,SURREY ; Lat/long: 51.163,-0.252 ; Depth: 2 km ; Magnitude: 0.2
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190214080252.html
+            </link>
+            <pubDate>Thu, 14 Feb 2019 08:02:53</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.163</geo:lat>
+            <geo:long>-0.252</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 2.4 :NEWDIGATE,SURREY, Thu, 14 Feb 2019 07:43:33
+            </title>
+            <description>
+                Origin date/time: Thu, 14 Feb 2019 07:43:33 ; Location: NEWDIGATE,SURREY ; Lat/long: 51.163,-0.250 ; Depth: 2 km ; Magnitude: 2.4
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190214074334.html
+            </link>
+            <pubDate>Thu, 14 Feb 2019 07:43:33</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.163</geo:lat>
+            <geo:long>-0.250</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.1 :OBAN,ARGYLL AND BUTE, Mon, 11 Feb 2019 13:23:36
+            </title>
+            <description>
+                Origin date/time: Mon, 11 Feb 2019 13:23:36 ; Location: OBAN,ARGYLL AND BUTE ; Lat/long: 56.364,-5.484 ; Depth: 4 km ; Magnitude: 1.1
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190211132300.html
+            </link>
+            <pubDate>Mon, 11 Feb 2019 13:23:36</pubDate>
+            <category>EQUK</category>
+            <geo:lat>56.364</geo:lat>
+            <geo:long>-5.484</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.7 :NORTHERN NORTH SEA, Fri, 08 Feb 2019 11:14:39
+            </title>
+            <description>
+                Origin date/time: Fri, 08 Feb 2019 11:14:39 ; Location: NORTHERN NORTH SEA ; Lat/long: 59.297,-1.130 ; Depth: 22 km ; Magnitude: 1.7
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190208111400.html
+            </link>
+            <pubDate>Fri, 08 Feb 2019 11:14:39</pubDate>
+            <category>EQUK</category>
+            <geo:lat>59.297</geo:lat>
+            <geo:long>-1.130</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.9 :BLAIRLOGIE,STIRLING, Tue, 05 Feb 2019 21:27:07
+            </title>
+            <description>
+                Origin date/time: Tue, 05 Feb 2019 21:27:07 ; Location: BLAIRLOGIE,STIRLING ; Lat/long: 56.168,-3.876 ; Depth: 7 km ; Magnitude: 0.9
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190205212630.html
+            </link>
+            <pubDate>Tue, 05 Feb 2019 21:27:07</pubDate>
+            <category>EQUK</category>
+            <geo:lat>56.168</geo:lat>
+            <geo:long>-3.876</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.8 :ELPHIN,HIGHLAND, Sun, 03 Feb 2019 05:22:19
+            </title>
+            <description>
+                Origin date/time: Sun, 03 Feb 2019 05:22:19 ; Location: ELPHIN,HIGHLAND ; Lat/long: 58.078,-5.133 ; Depth: 8 km ; Magnitude: 0.8
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190203052130.html
+            </link>
+            <pubDate>Sun, 03 Feb 2019 05:22:19</pubDate>
+            <category>EQUK</category>
+            <geo:lat>58.078</geo:lat>
+            <geo:long>-5.133</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.0 :KINGSTONE,HEREFORDSHIRE, Wed, 30 Jan 2019 11:53:15
+            </title>
+            <description>
+                Origin date/time: Wed, 30 Jan 2019 11:53:15 ; Location: KINGSTONE,HEREFORDSHIRE ; Lat/long: 52.015,-2.861 ; Depth: 8 km ; Magnitude: 1.0
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190130115002.html
+            </link>
+            <pubDate>Wed, 30 Jan 2019 11:53:15</pubDate>
+            <category>EQUK</category>
+            <geo:lat>52.015</geo:lat>
+            <geo:long>-2.861</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 2.2 :BUCKNALL,LINCOLNSHIRE, Sun, 27 Jan 2019 23:48:19
+            </title>
+            <description>
+                Origin date/time: Sun, 27 Jan 2019 23:48:19 ; Location: BUCKNALL,LINCOLNSHIRE ; Lat/long: 53.202,-0.250 ; Depth: 26 km ; Magnitude: 2.2
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190127234817.html
+            </link>
+            <pubDate>Sun, 27 Jan 2019 23:48:19</pubDate>
+            <category>EQUK</category>
+            <geo:lat>53.202</geo:lat>
+            <geo:long>-0.250</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.1 :LONGTOWN,CUMBRIA, Sat, 26 Jan 2019 07:19:10
+            </title>
+            <description>
+                Origin date/time: Sat, 26 Jan 2019 07:19:10 ; Location: LONGTOWN,CUMBRIA ; Lat/long: 55.019,-2.887 ; Depth: 7 km ; Magnitude: 1.1
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190126071748.html
+            </link>
+            <pubDate>Sat, 26 Jan 2019 07:19:10</pubDate>
+            <category>EQUK</category>
+            <geo:lat>55.019</geo:lat>
+            <geo:long>-2.887</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.0 :GLENLYON,PERTH/KINROSS, Sat, 26 Jan 2019 07:16:37
+            </title>
+            <description>
+                Origin date/time: Sat, 26 Jan 2019 07:16:37 ; Location: GLENLYON,PERTH/KINROSS ; Lat/long: 56.597,-4.130 ; Depth: 2 km ; Magnitude: 1.0
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190126071559.html
+            </link>
+            <pubDate>Sat, 26 Jan 2019 07:16:37</pubDate>
+            <category>EQUK</category>
+            <geo:lat>56.597</geo:lat>
+            <geo:long>-4.130</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.2 :ENDON,STAFFORDSHIRE, Sat, 26 Jan 2019 02:50:32
+            </title>
+            <description>
+                Origin date/time: Sat, 26 Jan 2019 02:50:32 ; Location: ENDON,STAFFORDSHIRE ; Lat/long: 53.080,-2.112 ; Depth: 14 km ; Magnitude: 1.2
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190126025032.html
+            </link>
+            <pubDate>Sat, 26 Jan 2019 02:50:32</pubDate>
+            <category>EQUK</category>
+            <geo:lat>53.080</geo:lat>
+            <geo:long>-2.112</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.0 :LONGTOWN,CUMBRIA, Fri, 25 Jan 2019 20:00:12
+            </title>
+            <description>
+                Origin date/time: Fri, 25 Jan 2019 20:00:12 ; Location: LONGTOWN,CUMBRIA ; Lat/long: 55.023,-2.879 ; Depth: 8 km ; Magnitude: 1.0
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190125195846.html
+            </link>
+            <pubDate>Fri, 25 Jan 2019 20:00:12</pubDate>
+            <category>EQUK</category>
+            <geo:lat>55.023</geo:lat>
+            <geo:long>-2.879</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.5 :LOCHGAIR,ARGYLL AND BUTE, Thu, 24 Jan 2019 02:20:20
+            </title>
+            <description>
+                Origin date/time: Thu, 24 Jan 2019 02:20:20 ; Location: LOCHGAIR,ARGYLL AND BUTE ; Lat/long: 56.087,-5.352 ; Depth: 10 km ; Magnitude: 1.5
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190124022020.html
+            </link>
+            <pubDate>Thu, 24 Jan 2019 02:20:20</pubDate>
+            <category>EQUK</category>
+            <geo:lat>56.087</geo:lat>
+            <geo:long>-5.352</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.7 :LLANGWM,CONWY, Wed, 23 Jan 2019 07:10:33
+            </title>
+            <description>
+                Origin date/time: Wed, 23 Jan 2019 07:10:33 ; Location: LLANGWM,CONWY ; Lat/long: 52.990,-3.531 ; Depth: 12 km ; Magnitude: 0.7
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190123070920.html
+            </link>
+            <pubDate>Wed, 23 Jan 2019 07:10:33</pubDate>
+            <category>EQUK</category>
+            <geo:lat>52.990</geo:lat>
+            <geo:long>-3.531</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.0 :CHESTER,CHESHIRE, Sun, 20 Jan 2019 02:13:52
+            </title>
+            <description>
+                Origin date/time: Sun, 20 Jan 2019 02:13:52 ; Location: CHESTER,CHESHIRE ; Lat/long: 53.160,-2.801 ; Depth: 7 km ; Magnitude: 1.0
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190120021250.html
+            </link>
+            <pubDate>Sun, 20 Jan 2019 02:13:52</pubDate>
+            <category>EQUK</category>
+            <geo:lat>53.160</geo:lat>
+            <geo:long>-2.801</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.5 :IRISH SEA, Sat, 19 Jan 2019 00:00:03
+            </title>
+            <description>
+                Origin date/time: Sat, 19 Jan 2019 00:00:03 ; Location: IRISH SEA ; Lat/long: 54.637,-3.868 ; Depth: 4 km ; Magnitude: 0.5
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190118235900.html
+            </link>
+            <pubDate>Sat, 19 Jan 2019 00:00:03</pubDate>
+            <category>EQUK</category>
+            <geo:lat>54.637</geo:lat>
+            <geo:long>-3.868</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.4 :WHITSTONE,CORNWALL, Fri, 18 Jan 2019 02:33:37
+            </title>
+            <description>
+                Origin date/time: Fri, 18 Jan 2019 02:33:37 ; Location: WHITSTONE,CORNWALL ; Lat/long: 50.725,-4.460 ; Depth: 3 km ; Magnitude: 1.4
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190118023222.html
+            </link>
+            <pubDate>Fri, 18 Jan 2019 02:33:37</pubDate>
+            <category>EQUK</category>
+            <geo:lat>50.725</geo:lat>
+            <geo:long>-4.460</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.4 :MOIDART,HIGHLAND, Wed, 16 Jan 2019 17:01:47
+            </title>
+            <description>
+                Origin date/time: Wed, 16 Jan 2019 17:01:47 ; Location: MOIDART,HIGHLAND ; Lat/long: 56.801,-5.691 ; Depth: 7 km ; Magnitude: 1.4
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190116170101.html
+            </link>
+            <pubDate>Wed, 16 Jan 2019 17:01:47</pubDate>
+            <category>EQUK</category>
+            <geo:lat>56.801</geo:lat>
+            <geo:long>-5.691</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.7 :BEATTOCK,D AND G, Mon, 14 Jan 2019 17:58:12
+            </title>
+            <description>
+                Origin date/time: Mon, 14 Jan 2019 17:58:12 ; Location: BEATTOCK,D AND G ; Lat/long: 55.271,-3.515 ; Depth: 7 km ; Magnitude: 0.7
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190114175651.html
+            </link>
+            <pubDate>Mon, 14 Jan 2019 17:58:12</pubDate>
+            <category>EQUK</category>
+            <geo:lat>55.271</geo:lat>
+            <geo:long>-3.515</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 2.6 :SOUTHERN NORTH SEA, Fri, 11 Jan 2019 22:51:23
+            </title>
+            <description>
+                Origin date/time: Fri, 11 Jan 2019 22:51:23 ; Location: SOUTHERN NORTH SEA ; Lat/long: 53.733,1.089 ; Depth: 6 km ; Magnitude: 2.6
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190111225122.html
+            </link>
+            <pubDate>Fri, 11 Jan 2019 22:51:23</pubDate>
+            <category>EQUK</category>
+            <geo:lat>53.733</geo:lat>
+            <geo:long>1.089</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.8 :KINLOCHEWE,HIGHLAND, Thu, 10 Jan 2019 01:13:53
+            </title>
+            <description>
+                Origin date/time: Thu, 10 Jan 2019 01:13:53 ; Location: KINLOCHEWE,HIGHLAND ; Lat/long: 57.584,-5.377 ; Depth: 4 km ; Magnitude: 0.8
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190110011317.html
+            </link>
+            <pubDate>Thu, 10 Jan 2019 01:13:53</pubDate>
+            <category>EQUK</category>
+            <geo:lat>57.584</geo:lat>
+            <geo:long>-5.377</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.9 :ST CLEARS,CARMARTHS, Thu, 10 Jan 2019 00:42:21
+            </title>
+            <description>
+                Origin date/time: Thu, 10 Jan 2019 00:42:21 ; Location: ST CLEARS,CARMARTHS ; Lat/long: 51.804,-4.456 ; Depth: 4 km ; Magnitude: 0.9
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190110004129.html
+            </link>
+            <pubDate>Thu, 10 Jan 2019 00:42:21</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.804</geo:lat>
+            <geo:long>-4.456</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.7 :LYMPSHAM,SOMERSET, Sun, 06 Jan 2019 22:09:46
+            </title>
+            <description>
+                Origin date/time: Sun, 06 Jan 2019 22:09:46 ; Location: LYMPSHAM,SOMERSET ; Lat/long: 51.272,-2.959 ; Depth: 9 km ; Magnitude: 1.7
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190106220930.html
+            </link>
+            <pubDate>Sun, 06 Jan 2019 22:09:46</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.272</geo:lat>
+            <geo:long>-2.959</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.4 :MULL,ARGYLL AND BUTE, Sun, 06 Jan 2019 18:07:44
+            </title>
+            <description>
+                Origin date/time: Sun, 06 Jan 2019 18:07:44 ; Location: MULL,ARGYLL AND BUTE ; Lat/long: 56.653,-6.256 ; Depth: 8 km ; Magnitude: 1.4
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190106180639.html
+            </link>
+            <pubDate>Sun, 06 Jan 2019 18:07:44</pubDate>
+            <category>EQUK</category>
+            <geo:lat>56.653</geo:lat>
+            <geo:long>-6.256</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 2.2 :MORVEN,HIGHLAND, Thu, 03 Jan 2019 02:20:54
+            </title>
+            <description>
+                Origin date/time: Thu, 03 Jan 2019 02:20:54 ; Location: MORVEN,HIGHLAND ; Lat/long: 56.584,-5.924 ; Depth: 8 km ; Magnitude: 2.2
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190103022053.html
+            </link>
+            <pubDate>Thu, 03 Jan 2019 02:20:54</pubDate>
+            <category>EQUK</category>
+            <geo:lat>56.584</geo:lat>
+            <geo:long>-5.924</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.5 :CAVERSHAM,READING, Wed, 02 Jan 2019 23:44:07
+            </title>
+            <description>
+                Origin date/time: Wed, 02 Jan 2019 23:44:07 ; Location: CAVERSHAM,READING ; Lat/long: 51.492,-0.970 ; Depth: 8 km ; Magnitude: 1.5
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190102234255.html
+            </link>
+            <pubDate>Wed, 02 Jan 2019 23:44:07</pubDate>
+            <category>EQUK</category>
+            <geo:lat>51.492</geo:lat>
+            <geo:long>-0.970</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 0.9 :SOUND OF JURA, Wed, 02 Jan 2019 04:44:25
+            </title>
+            <description>
+                Origin date/time: Wed, 02 Jan 2019 04:44:25 ; Location: SOUND OF JURA ; Lat/long: 55.787,-5.762 ; Depth: 9 km ; Magnitude: 0.9
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190102044332.html
+            </link>
+            <pubDate>Wed, 02 Jan 2019 04:44:25</pubDate>
+            <category>EQUK</category>
+            <geo:lat>55.787</geo:lat>
+            <geo:long>-5.762</geo:long>
+        </item>
+        <item>
+            <title>
+                UK Earthquake alert : M 1.6 :QUABBS,SHROPSHIRE, Tue, 01 Jan 2019 01:18:31
+            </title>
+            <description>
+                Origin date/time: Tue, 01 Jan 2019 01:18:31 ; Location: QUABBS,SHROPSHIRE ; Lat/long: 52.412,-3.139 ; Depth: 7 km ; Magnitude: 1.6
+            </description>
+            <link>
+                http://earthquakes.bgs.ac.uk/earthquakes/recent_events/20190101011830.html
+            </link>
+            <pubDate>Tue, 01 Jan 2019 01:18:31</pubDate>
+            <category>EQUK</category>
+            <geo:lat>52.412</geo:lat>
+            <geo:long>-3.139</geo:long>
+        </item>
+    </channel>
+</rss>
