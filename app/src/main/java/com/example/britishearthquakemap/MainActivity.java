@@ -246,6 +246,7 @@ public class MainActivity extends AppCompatActivity implements OnClickListener, 
 
     }
 
+    // get highest magnitude
     public void highestMagnitude(ArrayList<Item> items){
 
         TextView magnitudeBig = findViewById(R.id.magnitudeBig);
@@ -306,7 +307,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener, 
                 while ((inputLine = in.readLine()) != null)
                 {
                     result = result + inputLine;
-                    //Log.e("MyTag",inputLine);
 
                 }
                 in.close();
@@ -322,35 +322,6 @@ public class MainActivity extends AppCompatActivity implements OnClickListener, 
             // Now update the TextView to display raw XML data
             // Probably not the best way to update TextView
             // but we are just getting started !
-
-            MainActivity.this.runOnUiThread(new Runnable() {
-
-                public void run() {
-
-                    new Timer().schedule(new TimerTask() {
-                        @Override
-                        public void run() {
-                            // this code will be executed after 2 seconds
-
-                            double lat = 55.0781;
-                            double lng = 3.0360;
-
-                            //Add all earthquake markers
-                            for (Item item : items) {
-                                lat = Double.parseDouble(item.geoLat);
-                                lng = Double.parseDouble(item.geoLong);
-
-                                LatLng latLngInput = new LatLng(lat, lng);
-
-                                //mMap.addMarker(new MarkerOptions().position(latLngInput).title(item.title));
-                            }
-
-                        }
-                    }, 1000);
-
-                }
-
-                                            });
 
             MainActivity.this.runOnUiThread(new Runnable()
             {

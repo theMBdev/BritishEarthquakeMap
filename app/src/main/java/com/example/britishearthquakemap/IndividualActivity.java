@@ -65,7 +65,7 @@ public class IndividualActivity extends AppCompatActivity implements OnMapReadyC
         Log.d(TAG, "setImage: setting te image and name to widgets.");
 
         TextView depth = findViewById(R.id.depth);
-        depth.setText(inpDepth + " deep");
+        depth.setText(inpDepth + "deep");
 
         TextView geoLong = findViewById(R.id.geoLong);
         geoLong.setText("Long " + inpLong);
